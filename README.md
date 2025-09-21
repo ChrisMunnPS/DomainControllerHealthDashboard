@@ -71,7 +71,7 @@ Esme — a quiet, orange British short-haired cat who supervises every script in
 
 
 📫 *Connect*:  
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/chrismunnps) or explore more projects on [GitHub](https://github.com/ChrisMunnPS).
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/chrismunn/) or explore more projects on [GitHub](https://github.com/ChrisMunnPS).
 License
 MIT License — feel free to use, modify, and share with attribution.
 
