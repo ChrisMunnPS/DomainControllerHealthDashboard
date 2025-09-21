@@ -28,4 +28,50 @@ This script performs a comprehensive health check across all domain controllers 
 
 ```powershell
 # Run the script with admin privileges
-.\Invoke-ADHealthCheck.ps1
+.\ADHealthDashboard.ps1
+```
+
+
+Requirements
+- PowerShell 5.1 or later
+- RSAT: Active Directory module installed
+- Administrative privileges to query domain controllers and read event logs
+- Network access to all DCs in scope
+
+Screenshot
+Preview of the HTML dashboard (dark theme with color-coded health indicators):
+
+![AD Health Dashboard Screenshot](https://github.com/ChrisMunnPS/DomainControllerHealthDashboard/blob/main/ADHealthDashboard.png)
+
+
+
+Preview of the markdown file
+[View AD Health Dashboard Report (Markdown)](https://github.com/ChrisMunnPS/DomainControllerHealthDashboard/blob/main/ADHealthDashboard_20250921_163946.md)
+
+
+## 👤 Author
+
+**Chris Munn**  
+🛠️ *Mid-to-Senior Windows Systems Administrator*  
+🎯 *Specializing in automation, infrastructure health, and secure reporting*  
+📜 *Microsoft Certified*:  
+- Azure Administrator Associate (AZ-104)  
+- MS-900, SC-900, AZ-900  
+- Active Directory Domain Services Applied Skills  
+
+💡 *Core Skills*:  
+- PowerShell scripting & modular function design  
+- Advanced AD diagnostics & FSMO role analysis  
+- Markdown/HTML reporting for technical transparency  
+- Docker Compose & container security  
+- Hardware troubleshooting & workspace customization  
+
+🐾 *Creative Companion*:  
+Esme — a quiet, orange British short-haired cat who supervises every script in payment of treats, specifically dreamies.
+
+
+📫 *Connect*:  
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/chrismunnps) or explore more projects on [GitHub](https://github.com/ChrisMunnPS).
+License
+MIT License — feel free to use, modify, and share with attribution.
+
